@@ -14,3 +14,12 @@ body {
 }
 
 /* add styles here */
+a{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+a{
+   color: blue
+}
